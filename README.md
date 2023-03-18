@@ -89,19 +89,19 @@ For X101 feature, the result is as follows
 ```
 {'BLEU': [0.815081086664584, 0.6636215344147612, 0.5204819526650064, 0.40031207354505216], 'METEOR': 0.2958530781256409, 'ROUGE': 0.5926261652356616, 'CIDEr': 1.3529696077380788, 'SPICE': 0.23262283565610434}
 ```
-![](./images/single_model_X101.png)
+![](https://raw.githubusercontent.com/noonisy/CST/main/images/single_model_X101.png)
 
 For X152 feature, the result is as follows
 ```
 {'BLEU': [0.8191002432889197, 0.6669459388676849, 0.5229089701806792, 0.4024717018089491], 'METEOR': 0.2979335433407666, 'ROUGE': 0.5928667913961927, 'CIDEr': 1.3605548201907127, 'SPICE': 0.2343848307072949}
 ```
-![](./images/single_model_X152.png)
+![](https://raw.githubusercontent.com/noonisy/CST/main/images/single_model_X152.png)
 
 For ensemble models, you can run `python ensemble_eval.py` and get 
 
-![](./images/ensemble_models_X101.png)
+![](https://raw.githubusercontent.com/noonisy/CST/main/images/ensemble_models_X101.png)
 
-![](./images/ensemble_models_X152.png)
+![](https://raw.githubusercontent.com/noonisy/CST/main/images/ensemble_models_X152.png)
 
 ***
 ## Online Test
