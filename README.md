@@ -122,7 +122,7 @@ Thanks Cornia _et.al_ [M2 Transformer](https://github.com/aimagelab/meshed-memor
        Zhang _et.al_ [RSTNet](https://github.com/zhangxuying1004/RSTNet), and
        Luo _et.al_ [DLCT](https://github.com/luo3300612/image-captioning-DLCT), and
        Zeng _et.al_ [S2 Transformer](https://github.com/zchoi/S2-Transformer), and 
-       Hu _et.al_ [PGT](https://github.com/donglongzi/PGT), and
+       Hu _et.al_ [PGT](https://github.com/TBI805/PGT), and
        Ji _et.al_ [MDSAN](https://github.com/Young499/image-captioning-MDSANet), and
        Ma _et.al_ [LSTNet](https://github.com/xmu-xiaoma666/LSTNet) for their open source codes.
 
