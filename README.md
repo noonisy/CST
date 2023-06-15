@@ -1,5 +1,5 @@
 # Complementary Shifted Transformer for Image Captioning
-This repository contains the reference code for the paper **"Complementary Shifted Transformer for Image Captioning"**
+This repository contains the reference code for the paper **"[Complementary Shifted Transformer for Image Captioning](https://link.springer.com/article/10.1007/s11063-023-11314-0)"**
 
 ***
 ## Getting Started
@@ -125,10 +125,10 @@ For nocaps dataset, you get one generated captions file (.json), named "captions
 
 ***
 ## Acknowledgements
-Thanks Cornia _et.al_ [M2 Transformer](https://github.com/aimagelab/meshed-memory-transformer), and
-       Zhang _et.al_ [RSTNet](https://github.com/zhangxuying1004/RSTNet), and
-       Luo _et.al_ [DLCT](https://github.com/luo3300612/image-captioning-DLCT), and
-       Zeng _et.al_ [S2 Transformer](https://github.com/zchoi/S2-Transformer), and 
-       Hu _et.al_ [PGT](https://github.com/TBI805/PGT), and
-       Ji _et.al_ [MDSAN](https://github.com/Young499/image-captioning-MDSANet), and
-       Ma _et.al_ [LSTNet](https://github.com/xmu-xiaoma666/LSTNet) for their open source codes.
+Thank Cornia _et al._ [M2 Transformer](https://github.com/aimagelab/meshed-memory-transformer),
+       Zhang _et al._ [RSTNet](https://github.com/zhangxuying1004/RSTNet),
+       Luo _et al._ [DLCT](https://github.com/luo3300612/image-captioning-DLCT),
+       Zeng _et al._ [S2 Transformer](https://github.com/zchoi/S2-Transformer),
+       Hu _et al._ [PGT](https://github.com/TBI805/PGT),
+       Ji _et al._ [MDSAN](https://github.com/Young499/image-captioning-MDSANet), and
+       Ma _et al._ [LSTNet](https://github.com/xmu-xiaoma666/LSTNet) for their open source codes.
