@@ -44,7 +44,7 @@ Extract all the data and make sure you organize them as follows. Of course, you 
   | - images
   | - local
   |   | - annotations
-  |   |   | - captions_train2014.jsoXn
+  |   |   | - captions_train2014.json
   |   |   | - captions_val2014.json
   |   |   | - coco_train_ids.npy
   |   |   | - coco_dev_ids.npy
