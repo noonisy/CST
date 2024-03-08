@@ -219,7 +219,7 @@ class COCO(PairedDataset):
         else:
             ids = None
 
-        ids['train'] = (ids['train'][0][:5000], ids['train'][1][:5000])
+        # ids['train'] = (ids['train'][0][:5000], ids['train'][1][:5000])
 
         with nostdout():
             self.train_examples, self.val_examples, self.test_examples = self.get_samples(roots, ids)
